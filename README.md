@@ -2,6 +2,5 @@
 
 
 
-下载源代码和技术支持：
+下载源代码和技术支持：3031688968
 
-![qq qrcode](D:\Codes\ElaFluent\Cli git\resource\qq qrcode.jpg)

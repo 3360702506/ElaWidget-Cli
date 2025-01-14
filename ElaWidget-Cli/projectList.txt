@@ -1,0 +1,4 @@
+ssss,D:/Codes/ElaFluent/build-template-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug
+awdwad,D:/Codes/ElaFluent/build-template-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug
+awdadwadawd,D:/Codes/ElaFluent/build-template-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug
+AWDAWDD,D:/Codes/ElaFluent/build-template-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug
